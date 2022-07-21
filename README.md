@@ -9,7 +9,7 @@
 
 3. We add a page to the pdf
 
-    fpdf.add_page()
+	fpdf.add_page()
     
 4. We have two ways of adding an image
 
